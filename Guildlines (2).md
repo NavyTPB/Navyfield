@@ -3,8 +3,8 @@ BOTS
 ### U.S. Navy 
 | Class | Ship  | Main Gun-lvl| Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| BB1 | Alaska | 12"/50 cal Mark 8 Light| Light | 75 | Untested | 2868 |
-| EBB1 | New York | 14"/45 cal Mark 12 Unique | Unique | 75 | 2556 | Untested |
+| BB1 | Alaska | 12"/50 cal Mark 8 Light| ?| 75 | ?| ?|
+| EBB1 | New York | 14"/45 cal Mark 12 Unique | ?| 75 | ?| ?|
 | PBB1 | USN_Sevastopol | 12"/52 Pattern 1907 Unique | 14.08 -40| 75-40 | 2729| 935|
 | BB3 | South Dakota | 16"/50 cal Mark 3 L Light | Light | 75 | 2762 | Untested |
 | BB3 | North Carolina | 16"/45 cal Mark 6 L Light| Light | 75 | 2800 | 3300 |
@@ -34,7 +34,7 @@ BOTS
 | EBB4.5 | Temeraire | 18" Mark II BL | Unique | 80 | 2958 | 3436 |
 | BB5 | Lion II | 18"/45 Mark II | 19.52 -40 | 80-30 | 2977 | 1525+232 |
 | EBB5.5 | Duke of Edinburgh | 18" Mark II H-2  -115| 19.88-40| 80-30 | 2967| 1720+232 |
-| EBB5.5 | Duke of Cornwall | 18" Mark II BL-103 | 19.55-40| 80-30 | 2977| 1525+232 |
+| EBB5.5 | Duke of Cornwall | 18" Mark II BL-101 | 19.55-40| 80-30 | 2977| 1525+232 |
 | BB6 | Queen Victoria | 18"/50 Mark II | 20.32 -40| 80-30 | 3057 | 1565+50 |
 | EBB6 | Thunderer | 18"/50 Mark II RL | 20.56 -40| 80-30 | 3057 | 1565 |
 | BB6.5 | Conqueror | 18"/45 Marks II | 20.12-40| 80-30 | 3071| 1685 |
@@ -99,17 +99,17 @@ BOTS
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PCA | Petropavlovsk | 10"/50 Pattern 1908 | Unique | 74 | 2448 | Untested |
-| PBB1 | SN_Sevastopol | 12"/52 Pattern 1907 | Unique | 77 | 2713 | Untested |
-| BB3 | Kronshtadt | 12"/55 B-50 Pattern 1940 | Light | 77 | 2753 | Untested |
-| BB4 | Starlingrad | 16"/45 Pattern 1914-light-91 | 19-45| 80-35 | 2928 | 3444 |
-| EBB4 | Starlingrad (1953) | 16"/45 Pattern 1914 | Light | 80 | 2928 | 3444 |
-| BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937 | Unique | 80 | 2966 | 3488 |
+| PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40| 77-40 | 2713 | 1120|
+| BB3 | Kronshtadt | 12"/55 B-50 Pattern 1940 | 16.20-45| 77-40 | ?| 1050|
+| BB4 | Starlingrad | 16"/45 Pattern 1914-light-91 | 19.00-45| 80-35 | 2928 | 3444 |
+| EBB4 | Starlingrad (1953) | 16"/45 Pattern 1914 | | 80 | 2928 | 3444 |
+| BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937-100 | 17.00-40| 80-35 | ?|1940 |
 | EBB5 | Proletariat | 16" A-C-13 -115| 20.52-45| 80-30 | 2955| 1073 |
 | EBB5.5 | Moskva | 16" TD-18 -115 | 20.32-45| 80-35| 2976| 2200  |
 | BB6 | Project 24 | 18.1"/50 "Bolshevik" -120 | 20.45 -45| 80-30 | 3102| 2600 |
 | EBB6 | Project 25 | 18.1" B-XT -120 | 20.56 -45| 80-30 | 3102| 2600 |
 | BB6.5 | Sovietsky Spiral | 16" Vickers Pattern B | 21.36 -45| 80-40 | 3117| 1357|
-| BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | 20.28-45| 80-30 | -| 1765|
+| BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | 20.28-45| 80-30 | ?| 1765|
 
 ### Regia Marina 
 | Class | Ship  | Main Gun -lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
@@ -119,15 +119,15 @@ BOTS
 | BB2 | Caio Duilio (1915) | 12"/46 Model 1909 | Light | 76 | 2701-2703 | Untested |
 | BB2 | Conte di Cavour (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
 | EBB3.5 | Fr.Morosini | 13.5"/44 Model 1931T"ND" | Unique | 76 | 2869 | Untested |
-| BB4 | Caio Duilio (1937) | 12.6"/44 Model 1934 | Light | 76 | 2895 | 3405 |
-| BB4 | Conte di Cavour (1940) | 12.6"/44 Model 1934 | Light | 76 | 2895 | 3405 |
+| BB4 | Caio Duilio (1937) | 12.6"/44 Model 1934 | 12.60-30| 76-35 |? | 1430|
+| BB4 | Conte di Cavour (1940) | 12.6"/44 Model 1934 | 12.60-30| 76-35 |? | 1430|
 | PBB2 | Italy Project41-B | 12.6"/44 Model 1934 | Light | 80 | 2895 | 3405 |
-| BB5 | Vittorio Veneto | 16.5"/50 Model 1934 | 19.96-35| 78 | -| 3438 |
-| EBB5 | Cesare Borgia | 16.5"/50 Model 1945 | Unique | 78 | 2941-2943 | 3438 |
-| BB6 | Progetto UP41 | 18"/50 Model 1934 | 19.96-35| 80 | | |
-| EBB6 | Roma | 18"/50 Model 1943 | 20.00-35| 80 | | |
-| BB6.5 | Impero | 16.5"/50 Model 1937 | Unique | 80 | 3045 | 3559 |
-| BB7 | Italia | 18"/50 Model 1941 | Unique | 80 | 3055 | Untested |
+| BB5 | Vittorio Veneto | 16.5"/50 Model 1934-100 | 19.96-35| 78-30 | -| 1400|
+| EBB5 | Cesare Borgia | 16.5"/50 Model 1945-115 | 19.60-35| 78-30 | ?| 1660|
+| BB6 | Progetto UP41 | 18"/50 Model 1934 | 19.96-35| 80-30 |? | 1175 |
+| EBB6 | Roma | 18"/50 Model 1943 | 20.00-35| 80-30 |? |1175 |
+| BB6.5 | Impero | 16.5"/50 Model 1937 | 19.36-35| 80-30 | ?| 1405 +1 AP|
+| BB7 | Italia | 18"/50 Model 1941 | 19.68-35| 80-30 | ?| 1240 |
 
 ### China Navy 
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage|
