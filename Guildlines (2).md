@@ -9,8 +9,10 @@ BOTS
 | BB3 | South Dakota | 16"/50 cal Mark 3 L Light | Light | 75 | 2762 | Untested |
 | BB3 | North Carolina | 16"/45 cal Mark 6 L Light| Light | 75 | 2800 | 3300 |
 | EBB3 | Indiana | 16"/45 cal Mark 6 L Ligth| Light | 80 | 2800 | 3300 |
-| EBB4 | Iowa| 16¨/50 Cal Mark 7L Light  - | 17.16-45| 80 | 2950 | 3468 |
-| EBB4.5 | Missouri | 16"/50 cal Mark 7 W23 Light | Light | 80 | 2936 | 3450 |
+| EBB4 | Iowa| 16¨/50 Cal Mark 7L  -96 | 17.16-45| 80-35| 2910| 1238+228 |
+| EBB4-96 | Iowa| 16¨/50 Cal Mark 7L  -96 | 17.16-45| 80-35 | 2910| 1238-228 |
+| EBB4-90 | Arizona 1941| 14¨Arizona S Gun-90| 18.52-40 | 80-35 | 2902 | 984+251 |
+| EBB4-99 | Missouri | 16"/50 cal Mark 7 W23-101  | 18.56-45| 80-35 | 2955 | 1407+245 |
 | BB5 | Montana | 16"/50 cal Mark 7 Mod 1 -100| 18.56 -45 | 80-35 | 2955 | 1407 |
 | EBB5.5 | Illinois | 16¨/50 Cal Mark7W23  -101|18.56 -45 | 80-35 | 2955 | 1407+245 |
 | EBB5.5 | California | 18"/48 cal BH-427   -115|19.68 -40 | 80-30 | 2977 | 2000 |
@@ -46,10 +48,11 @@ BOTS
 | PBB1 | KM_Andria Doria | 12.6"/44 Model 1936 | Unique | 78 | 2728 | 3220 |
 | BB3 | O Project II | 14.96"/52 SK C/34o L | Light | 78 | 2782 | 3282 |
 | BB3 | Bismarck | 14.96"/52 SK C/34b L | Light | 78 | 2818 | Untested |
-| EBB3 | Bismarck (1943) | 14.96"/52 SK C/34o L | Light | 78 | 2782 | 3282 |
-| EBB3.5 | Prinz Eugen (1942) | 14.96"/52 SK C/34 F | Light | 78 | 2902 | Untested |
+| EBB3 | Bismarck (1943) | 14.96"/52 SK C/34o L | 14.52-30 | 78-35 | 2786 | 1329+241|
+| EBB3.5 | Prinz Eugen (1942) | 14.96"/52 SK C/34oL-82 | 14.52-30 | 78-35 | 2786| 1329+241|
 | PBB2 | Scharnhorst (1942) | 14.96"/52 SK C/34 S | Unique | 80 | 2914-2916 | Untested |
 | BB4 | H39 Class | 16"/52 SK C/34 L | Light | 80 | 2934 | Untested |
+| EBB4-90 | Bismarck (1945) | 14.96"/52 SK C/34S | 17.16-30 | 80-35 | 2922 | 1171+241|
 | EBB4 | H41 Project | 16"/52 SK C/34 L | Light | 80 | 2934 | Untested |
 | EBB4.5 | J39 Class | 20"/48 SK C/40 Plan Z | Unique | 80 | 2974 | 3500 |
 | BB5 | H44 Class | 20"/48 SK C/40 | Unique | 80 | 2972-2974 | 3500 |
@@ -86,24 +89,25 @@ BOTS
 | EBB2 | Le Havre | 12"/45 cal Model 1906 | Light | 75 | 2786 | Untested |
 | EBB3.5 | Lyon (1943) | 13.4"/45 cal Model 1928  -79 | 17.24 -35| 80-40 | 2883 | 915+249 |
 | BB4 | Richelieu | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
-| PBB3 | Richelieu (1951) | 14.96"/45 cal Model 1935-Light- | 18.56-35| 80-35 | 2863| 1330|
-| EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942 | Unique | 80 | 2931-2933 | 3449 |
+| PBB3 | Richelieu (1951) | 14.96"/45 cal Model 1935-91 | 18.56-35| 80-35 | 2863| 1330|
+| EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942-115 | 20.04-40| 80-40 | 2959 | 1350+252|
 | BB5 | Alsace | 18.89"/45 cal Model 1936 -100| 20.00 -40| 80-40 | 2959 | 1350+252 |
-| EBB5 | Thermidor | 18.89"/45 cal Model 1942  -115 | 20.04 -40| 80-30 | 2959 | 1350+ 252 |
+| EBB5-110 | Gascogne | 18.89"/45 cal Model 1942  -115 | 20.04 -40| 80-40 | 2959 | 1350+ 252 |
+| EBB5-113 | Thermidor | 18.89"/45 cal Model 1942  -115 | 20.04 -40| 80-40 | 2959 | 1350+ 252 |
 | BB6 | Charlemagne | 18.89"/45 cal Model 1945 -120 | 20.70 -40| 80-35 | 3021| 1450 |
 | EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944  -120| 20.70 -35| 80-40 | 3021| 1450 |
-| BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | 20.00-40| 80-40 | -| 1354|
+| BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | 20.00-40| 80-40 | 3031| 1354+252 |
 | BB7 | Versailles | 18.89"/45 cal Model 1945 II | 20.44-35| 80-40 | -| 1540|
 
 ### Soviet Navy 
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PCA | Petropavlovsk | 10"/50 Pattern 1908 | Unique | 74 | 2448 | Untested |
-| PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40| 77-40 | 2713 | 1120|
-| BB3 | Kronshtadt | 12"/55 B-50 Pattern 1940 | 16.20-45| 77-40 | ?| 1050|
-| BB4 | Starlingrad | 16"/45 Pattern 1914-light-91 | 19.00-45| 80-35 | 2928 | 3444 |
-| EBB4 | Starlingrad (1953) | 16"/45 Pattern 1914 | | 80 | 2928 | 3444 |
-| BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937-100 | 17.00-40| 80-35 | ?|1940 |
+| PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40| 77-40 | 2713 | 1120 |
+| BB3 | Kronshtadt | 12"/55 B-50 Pattern 1940 -79| 16.20-45| 77-40 | 2767 | 1050 |
+| BB4 | Starlingrad | 16"/45 Pattern 1914-91 | 19.00-45| 80-35 | 2928 | 3444 |
+| EBB4 | Starlingrad (1953) | 16"/45 Pattern 1914-91 |19.00-45 | 80-35 | 2928 | 3444 |
+| BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937-100 | 19.72-40| 80-35 | 2976 | 1940 |
 | EBB5 | Proletariat | 16" A-C-13 -115| 20.52-45| 80-30 | 2955| 1073 |
 | EBB5.5 | Moskva | 16" TD-18 -115 | 20.32-45| 80-35| 2976| 2200  |
 | BB6 | Project 24 | 18.1"/50 "Bolshevik" -120 | 20.45 -45| 80-30 | 3102| 2600 |
