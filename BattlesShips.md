@@ -99,31 +99,29 @@ BOTS
 | BB6 | Charlemagne | 18.89"/45 cal Model 1945 -120 | 20.70 -40| 80-35 | 3021| 1450 |
 | EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944  -120| 20.70 -35| 80-40 | 3021| 1450 |
 | BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | 20.00-40| 80-40 | 3031| 1354+252 |
-| BB7 | Versailles | 18.89"/45 cal Model 1945 II | 20.44-35| 80-40 | -| 1540|
+| BB7 | Versailles | 18.89"/45 cal Model 1945 II | 20.44-35| 80-40 | -| 1540 |
 
 ### Soviet Navy 
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-
-| PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40| 77-40 | 2729 | 1120 |
-| BB3 | Kronshtadt | 12"/55 B-50 Pattern 1940 -79| 16.20-45| 77-40 | 2767 | 1050 |
+| PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40 | 77-40 | 2729 | 1120 |
+| BB3 | Kronshtadt | 12"/55 B-50 Pattern 1940 -79 | 16.20-45| 77-40 | 2767 | 1050 |
 | BB4 | Starlingrad | 16"/45 Pattern 1914-91 | 19.00-45| 80-35 | 2943 | 1080 |
 | EBB4 | Starlingrad (1953) | 16"/45 Pattern 1914-91 |19.00-45 | 80-35 | 2943 | 1080 |
 | BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937-100 | 19.72-40| 80-35 | 2976 | 1940 |
-| EBB5 | Proletariat | 16" A-C-13 -115| 20.52-45| 80-30 | 2955| 1073 |
+| EBB5 | Proletariat | 16" A-C-13 -115 | 20.52-45| 80-30 | 2955| 1073 |
 | EBB5.5 | Moskva | 16" TD-18 -115 | 20.32-45| 80-35| 2976| 2200  |
 | BB6 | Project 24 | 18.1"/50 "Bolshevik" -120 | 20.45 -45| 80-30 | 3102| 2600 |
 | EBB6 | Project 25 | 18.1" B-XT -120 | 20.56 -45| 80-30 | 3102| 2600 |
 | BB6.5 | Sovietsky Spiral | 16" Vickers Pattern B | 21.36 -45| 80-40 | 3117| 1357|
-| BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | 20.28-45| 80-30 | ?| 1765|
+| BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | 20.28-45| 80-30 |  ?| 1765|
 
 ### Regia Marina 
 | Class | Ship  | Main Gun -lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-
-| PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | ?| 76 | ?| ?|
+| PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | ?| 76 | ? | ? |
 | BC2 | Caio Duilio (1915) | 12"/46 Model 1909 | 16.12-30| 76-40 | 2758 | 1064|
-| BB3-77 | Conte di Cavour (1915) | 12"/45 K10 | ?| 76 | ?| ?|
+| BB3-77 | Conte di Cavour (1915) | 12"/45 K10 | ? | 76 | ? | ? |
 | BB3 | Caio Duilio (1937) | 12.6"/44 Model 1934 | 12.60-30| 76-35 |? | 1430|
 | EBB3-80 | Giulio Cesare (1914) | 12"/45 K10-76 | 16.12-30| 76-40 | 2758| 1064 |
 | BB4 | Conte di Cavour (1940) | 12.6"/44 Model 1934 | 12.60-30| 76-35 |? | 1430|
