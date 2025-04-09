@@ -24,15 +24,14 @@ BOTS
 ### Royal Navy 
 | Class | Ship  | Main Gun Shell | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| PCA | Furious | 15"/45 cal Mark II | Light | 75 | 2464 | Untested |
 | BB2 | Queen Elizabeth | 15"/42 cal Mark III | Light | 75 | 2782 | Untested |
 | PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 2739| 1025|
 | BB3 | King George V | 14"/45 Mark III | 15.96-40| 75-35 | ?| 996  |
-| EBB3 -86| Hood (1939) | 15"/42 cal Mark III L | 17.00-40| 75 | 2792 | Untested |
+| EBB3 -86| Hood (1939) | 15"/42 cal Mark III L | 17.00-40| 75-35 | 2800| 1335+242|
 | EBB3-80| Anson | 14"/45 BL Mark III | 18.20-40| 75-40 | ?| 1235|
-| BB4 | Lion I | 16"/45 cal Mark IV L-91 | 18.92-40 | 80-35 | ?| 1532 |
+| BB4 | Lion I | 16"/45 cal Mark IV L-91 | 18.92-40 | 80-35 | 2850| 1534+248 |
 | EBB4-90| Hood (1943) | 15"/42 cal Mark III  | 17.96-30 | 75-35 | 2903| 1355+184|
-| BB4 | Vangurad | 15"/42 cal Mark IV L | ?| 80 | ?| ?|
+| BB4 | Vangurad | 15"/42 cal Mark IV L-91 | 17.92-30| 80-35 | 2953 | 1350+242 |
 | EBB4-96 | Vanguard(1946) | 15"/42 cal RP12 SL-98 | 17.92-30| 80-35 | 2903 | 1355 |
 | EBB4-99 | Temeraire | 18" Mark II BL | Unique | 80 | 2958 | 3436 |
 | BB5 | Lion II | 18"/45 Mark II | 19.52 -40 | 80-30 | 2977 | 1525+232 |
