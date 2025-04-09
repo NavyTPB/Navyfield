@@ -3,9 +3,8 @@ BOTS
 ### U.S. Navy 
 | Class-lvl | Ship  | Main Gun-lvl| Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| BB1 | Alaska | 12"/50 cal Mark 8 Light| ?| 75 | ?| ?|
-| EBB1 | New York | 14"/45 cal Mark 12 Unique | ?| 75 | ?| ?|
-| PBB1 | USN_Sevastopol | 12"/52 Pattern 1907 Unique | 14.08 -40| 75-40 | 2729| 935|
+| EBB1 | New York | 14"/45 cal Mark 12  | ?| 75 | ?| ?|
+| PBB1 | USN_Sevastopol | 12"/52 Pattern 1907  | 14.08 -40| 75-40 | 2729| 935|
 | BB3 | South Dakota | 16"/50 cal Mark 3L -80| 16.68-40| 75-35 | 2762 | 1193|
 | BB3 | North Carolina | 16"/45 cal Mark 6 L-79| 17.20-45| 75-35 | 2800 | 1280|
 | EBB3 | Indiana | 16"/45 cal Mark 6 L-79| 17.20-45| 80 -35| 2800 | 1280|
@@ -33,7 +32,7 @@ BOTS
 | EBB4-90| Hood (1943) | 15"/42 cal Mark III  | 17.96-30 | 75-35 | 2903| 1355+184|
 | BB4 | Vangurad | 15"/42 cal Mark IV L-91 | 17.92-30| 80-35 | 2953 | 1350+242 |
 | EBB4-96 | Vanguard(1946) | 15"/42 cal RP12 SL-98 | 17.92-30| 80-35 | 2903 | 1355 |
-| EBB4-99 | Temeraire | 18" Mark II BL | Unique | 80 | 2958 | 3436 |
+| EBB4-99 | Temeraire | 18" Mark II BL | 19.55-40 | 80-30 | 2958 | 1525+232 |
 | BB5 | Lion II | 18"/45 Mark II | 19.52 -40 | 80-30 | 2977 | 1525+232 |
 | EBB5-113 | Duke of Edinburgh | 18" Mark II H-2  -115| 19.88-40| 80-30 | 2967| 1720+232 |
 | EBB5-110 | Duke of Cornwall | 18" Mark II BL-101 | 19.55-40| 80-30 | 2977| 1525+232 |
@@ -85,9 +84,8 @@ BOTS
 ### Marine Nationale 
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| PCA | Mandel | 12"/45 cal Model 1910 | Unique | 70 | 2365 | Untested |
-| PBB1 | MN_Dunkerque | 12.2"/50 Model 1940 | Unique | 80 | 2727 | Untested |
-| EBB2 | Le Havre | 12"/45 cal Model 1906 | Light | 75 | 2786 | Untested |
+| PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 2739| 1025|
+| EBB2 | Le Havre | 12"/45 cal Model 1906 | ? | 75 | ? | ? |
 | EBB3.5 | Lyon (1943) | 13.4"/45 cal Model 1928  -79 | 17.24 -35| 80-40 | 2883 | 915+249 |
 | BB4 | Richelieu | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
 | PBB3 | Richelieu (1951) | 14.96"/45 cal Model 1935-91 | 18.56-35| 80-35 | 2863| 1330|
