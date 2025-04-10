@@ -22,17 +22,17 @@ BOTS
 ### Royal Navy 
 | Class | Ship  | Main Gun Shell | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| BB2 | Queen Elizabeth | 15"/42 cal Mark III | Light | 75 | 2782 | ? |
-| PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 2739| 1025|
-| BB3 | King George V | 14"/45 Mark III | 15.96-40| 75-35 | ?| 996  |
-| EBB3 -86| Hood (1939) | 15"/42 cal Mark III L | 17.00-40| 75-35 | 2800| 1335+242|
-| EBB3-80| Anson | 14"/45 BL Mark III | 18.20 -40 | 75-40 | ?| 1235 |
+| BB2 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 2782 | 1355 |
+| PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 2739| 1025 |
+| BB3 | King George V | 14"/45 Mark III | 15.96-40| 75-35 | ?| 996 |
+| EBB3 -86| Hood (1939) | 15"/42 cal Mark III L | 17.00-40 | 75-35 | 2800| 1335+242 |
+| EBB3-80| Anson | 14"/45 BL Mark III-75 | 18.20 -40 | 75-40 | ?| 1235 |
 | BB4 | Lion I | 16"/45 cal Mark IV L -91 | 18.92 -40 | 80-35 | 2850 | 1534+248 |
 | EBB4-90| Hood (1943) | 15"/42 cal Mark III  | 17.96-30 | 75-35 | 2903| 1355+184|
 | BB4 | Vangurad | 15"/42 cal Mark IV L -91 | 17.92-30| 80-35 | 2953 | 1350+242 |
 | EBB4-96 | Vanguard(1946) | 15"/42 cal RP12 SL -98 | 17.92-30 | 80-35 | 2903 | 1355 |
-| EBB4-99 | Temeraire | 18" Mark II BL -115 | 19.55-40 | 80 | 2958 | 3436 |
-| BB5 | Lion II | 18"/45 Mark II | 19.52 -40 | 80-30 | 2977 | 1525+232 |
+| EBB4-99 | Temeraire | 18" Mark II BL -101 | 19.55-40 | 80-30 | ? | 1525 |
+| BB5 | Lion II | 18"/45 Mark II-100 | 19.52 -40 | 80-30 | 2977 | 1525+232 |
 | EBB5-113 | Duke of Edinburgh | 18" Mark II H-2  -115| 19.88-40 | 80-30 | 2967| 1720+232 |
 | EBB5-110 | Duke of Cornwall | 18" Mark II BL-101 | 19.55-40 | 80-30 | 2977| 1525+232 |
 | BB6 | Queen Victoria | 18"/50 Mark II | 20.32 -40 | 80-30 | 3057 | 1565+50 |
@@ -43,7 +43,7 @@ BOTS
 ### Kriegsmarine 
 | Class | Ship  | Main Gun Shell | Reload-Grades| FCS-RB | Max Range Guideline | Damgage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| PBB1 | KM_Andria Doria | 12.6"/44 Model 1936 | ?| 78 | 2728 | '|
+| PBB1 | KM_Andria Doria | 12.6"/44 Model 1936-65 | 15.04-30 | 78-40 | 2728 | 940 |
 | BB3 | O Project II | 14.96"/52 SK C/34o L | 14.52-30 | 78-35 | 2786 | 1329+241 |
 | BB3 | Bismarck | 14.96"/52 SK C/34b L-82 | 15.72-30 | 78-35 | 2841| 1329+241 |
 | EBB3-82 | Bismarck (1943) | 14.96"/52 SK C/34o L-82 | 14.52-30 | 78-35 | 2786 | 1329+241 |
@@ -84,8 +84,8 @@ BOTS
 ### Marine Nationale 
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| PBB1 | MN_Dunkerque | 12.2"/50 Model 1940 | Unique | 80 | 2727 | Untested |
-| EBB2 | Le Havre | 12"/45 cal Model 1906 | Light | 75 | 2786 | Untested |
+| PBB1 | MN_Dunkerque | ? | ? | 80 | 2727 | ? |
+| EBB2 | Le Havre | ? | ? | 75 | 2786 | ? |
 | EBB3-80 | Lyon (1943) | 13.4"/45 cal Model 1928  -79 | 17.24 -35| 80-40 | 2883 | 915+249 |
 | BB4 | Richelieu | 14.96"/45 cal Model 1935 | 18.56-35 | 80 -35 | 2863 | 1330 |
 | PBB4-90 | Richelieu (1951) | 14.96"/45 cal Model 1935-91 | 18.56-35 | 80-35 | 2863| 1330 |
