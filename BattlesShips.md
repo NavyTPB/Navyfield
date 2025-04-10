@@ -40,7 +40,7 @@ BOTS
 | BB6 | Queen Victoria | 18"/50 Mark II | 20.32 -40| 80-30 | 3057 | 1565+50 |
 | EBB6 | Thunderer | 18"/50 Mark II RL | 20.56 -40| 80-30 | 3057 | 1565 |
 | BB6.5 | Conqueror | 18"/45 Marks II | 20.12-40| 80-30 | 3071| 1685 |
-| BB7 | King George VI | 18"/50 Mark III | 20.04-40| 80-30 | ?| 1650|
+| BB7 | King George VI | 18"/50 Mark III | 20.04-40| 80-30 | 3093| 1650|
 
 ### Kriegsmarine 
 | Class | Ship  | Main Gun Shell | Reload-Grades| FCS-RB | Max Range Guideline | Damgage |
