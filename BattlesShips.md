@@ -1,5 +1,9 @@
 BOTS
 
+- 1
+- *2*: 
+
+
 ### U.S. Navy 
 | Class-lvl | Ship  | Main Gun-lvl| Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
