@@ -35,7 +35,7 @@ BOTS
 | EBB4-90| Hood (1943) | 15"/42 cal Mark III  | 17.96-30 | 75-35 | 29.03| 1355+184|
 | BB4 | Vangurad | 15"/42 cal Mark IV L -91 | 17.92-30| 80-35 | 29.53 | 1350+242 |
 | EBB4-96 | Vanguard(1946) | 15"/42 cal RP12 SL -98 | 17.92-30 | 80-35 | 29.03 | 1355 |
-| EBB4-99 | Temeraire | 18" Mark II BL -101 | 19.55-40 | 80-30 | ? | 1525 |
+| EBB4-99 | Temeraire | 18" Mark II BL -101 | 19.55-40 | 80-30 | 29.77 | 1525 |
 | BB5 | Lion II | 18"/45 Mark II-100 | 19.52 -40 | 80-30 | 29.77 | 1525+232 |
 | EBB5-113 | Duke of Edinburgh | 18" Mark II H-2  -115| 19.88-40 | 80-30 | 29.67 | 1720+232 |
 | EBB5-110 | Duke of Cornwall | 18" Mark II BL-101 | 19.55-40 | 80-30 | 29.77| 1525+232 |
