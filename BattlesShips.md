@@ -125,20 +125,21 @@ BOTS
 | PBB4-90 | Italy Project41-B | 12.6"/44 Model 1934 -91 | 18.44-30 | 80-40 | 29.04 | 2000 |
 | BB5 | Vittorio Veneto | 16.5"/50 Model 1934 -100 | 19.36-35| 80-30 | 29.54 | 1400+243+1AP |
 | BB5-110 | Gaius Duilius | 16.5"/50 Model 1945 -115 | 19.60-35 | 80-30 | 29.54 | 1660+243+1AP |
-| EBB5-113 | Cesare Borgia | 16.5"/50 Model 1945 -115 | 19.60-35 | 80-30 |29.54 | 1660+243+1AP|
+| EBB5-113 | Cesare Borgia | 16.5"/50 Model 1945 -115 | 19.60-35 | 80-30 |29.54 | 1660+243+1AP |
 | BB6 | Progetto UP41 | 18"/50 Model 1934 | 19.96-35 | 80-30 | 30.41 | 1175 |
 | EBB6 | Roma | 18"/50 Model 1943 | 20.00-35| 80-30 | 30.41 |1175 |
 | BB6.5 | Impero | 16.5"/50 Model 1937 | 19.36-35 | 80-30 | 30.52 | 1405 +1 AP |
 | BB7 | Italia | 18"/50 Model 1941 | 19.68-35 | 80-30 | 30.70 | 1240 |
 
 ### China Navy 
-| Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage|
+| Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| BB3 | JingHaiHou | 15"/42 cal Mark III | ?| 80 | ? | ?|
-| BB4 | Yan Gong | 16"/45 cal Mark IV L | ?| 80 | ? | ?|
+| BB3 | JingHaiHou | 15"/42 cal Mark III | ?| 80 | ? | ? |
+| BB4 | Yan Gong | 16"/45 cal Mark IV L | ?| 80 | ? | ? |
 | BB5 | Ming Zhao | 18.89"/45 cal Model 1949-100 |20.00-40| 80-35 | 29.59 | 1350+252 |
 
 
 
-Update1 |
-Update2
+### Notas
+1
+2  
