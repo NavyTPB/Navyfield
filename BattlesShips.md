@@ -29,15 +29,15 @@ BOTS
 | BB2 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.82 | 1355 |
 | PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39| 1025 |
 | BB3 | King George V | 14"/45 Mark III | 15.96-40| 75-35 | ?| 996 |
-| EBB3 -86| Hood (1939) | 15"/42 cal Mark III L | 17.00-40 | 75-35 | 28.00| 1335+242 |
 | EBB3-80| Anson | 14"/45 BL Mark III-75 | 18.20 -40 | 75-40 | ?| 1235 |
+| EBB3 -86| Hood (1939) | ? | 17.00-40 | 75- | ? | ? |
 | BB4 | Lion I | 16"/45 cal Mark IV L -91 | 18.92 -40 | 80-35 | 28.50 | 1534+248 |
 | EBB4-90| Hood (1943) | 15"/42 cal Mark III  | 17.96-30 | 75-35 | 29.03| 1355+184|
 | BB4 | Vangurad | 15"/42 cal Mark IV L -91 | 17.92-30| 80-35 | 29.53 | 1350+242 |
 | EBB4-96 | Vanguard(1946) | 15"/42 cal RP12 SL -98 | 17.92-30 | 80-35 | 29.03 | 1355 |
 | EBB4-99 | Temeraire | 18" Mark II BL -101 | 19.55-40 | 80-30 | ? | 1525 |
 | BB5 | Lion II | 18"/45 Mark II-100 | 19.52 -40 | 80-30 | 29.77 | 1525+232 |
-| EBB5-113 | Duke of Edinburgh | 18" Mark II H-2  -115| 19.88-40 | 80-30 | 29.67| 1720+232 |
+| EBB5-113 | Duke of Edinburgh | 18" Mark II H-2  -115| 19.88-40 | 80-30 | 29.67 | 1720+232 |
 | EBB5-110 | Duke of Cornwall | 18" Mark II BL-101 | 19.55-40 | 80-30 | 29.77| 1525+232 |
 | BB6 | Queen Victoria | 18"/50 Mark II | 20.32 -40 | 80-30 | 30.57 | 1565+50 |
 | EBB6 | Thunderer | 18"/50 Mark II RL | 20.56 -40 | 80-30 | 30.57 | 1565 |
@@ -75,6 +75,7 @@ BOTS
 | EBB3-80| Ashitaka | 14.2"/45 Type 5 -80 | 15.92-38 | 80 -38 | 29.02 | 1134 |
 | EBB3-85 | Kii| 14.2"/45 Type 6-80 | 15.92-38 | 80-35  | 29.02 | 1375 |
 | BB4 | Yamato | 18.1"/45 Type 94 L -91 | 19.40-45 | 80-30 | 29.23 | 1470 |
+| EBB4-90 | Hiraga Project | ? | ? |?| ? | ? |
 | EBB4-96 | Musashi | 18.1"/45 Type 94 L-91 | 19.40-45 | 80-30 | 29.23 | 1470 |
 | EBB4-99 | Shinano | 20.1"/45 A-150 -103 | 18.00 -45| 80-30 | 29.70 | 3499 |
 | BB5 | Super Yamato | 18.9"/45 Type 5  -100 | 19.84 -45| 80-30 | 29.76 | 1500 |
@@ -121,7 +122,7 @@ BOTS
 | Class | Ship  | Main Gun -lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | ?| 76 | ? | ? |
-| BC2 | Caio Duilio (1915) | 12"/46 Model 1909 | 16.12-30| 76-40 | 27.58 | 1064|
+| BC2 | Caio Duilio (1915) | 12"/46 Model 1909 | 16.12-30 | 76-40 | 27.58 | 1064|
 | BC3 | Conte di Cavour (1915) | 12"/45 K10 | 16.12-30 | 76-40 | 27.58 | 1064 |
 | BC3 | Caio Duilio (1937) | 12"/45 K10 | 16.12-30 | 76-40 | 27.58 | 1064 |
 | EBB3-80 | Giulio Cesare (1914) | 12"/45 K10 -76 | 16.12-30 | 76-40 | 27.58| 1064 |
@@ -131,7 +132,7 @@ BOTS
 | BB5-110 | Gaius Duilius | 16.5"/50 Model 1945 -115 | 19.60-35 | 80-30 | 29.54 | 1660+243+1AP |
 | EBB5-113 | Cesare Borgia | 16.5"/50 Model 1945 -115 | 19.60-35 | 80-30 |29.54 | 1660+243+1AP |
 | BB6 | Progetto UP41 | 18"/50 Model 1934 | 19.96-35 | 80-30 | 30.41 | 1175 |
-| EBB6 | Roma | 18"/50 Model 1943 | 20.00-35| 80-30 | 30.41 |1175 |
+| EBB6 | Roma | 18"/50 Model 1943 | 20.00-35| 80-30 | 30.41 | 1175 |
 | BB6.5 | Impero | 16.5"/50 Model 1937 | 19.36-35 | 80-30 | 30.52 | 1405 +1 AP |
 | BB7 | Italia | 18"/50 Model 1941 | 19.68-35 | 80-30 | 30.70 | 1240 |
 
@@ -144,7 +145,15 @@ BOTS
 
 
 
+
+
+
+
 ### Notas
 
- 1  2 er   e rr 			df
+- RB= round bind
+- Sailors limited Prueba n2 el reload al maximo se queda en el 27%-33% del indicado
+- It's just a guideline
+
+ 
 
