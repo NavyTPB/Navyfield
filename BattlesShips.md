@@ -137,3 +137,8 @@ BOTS
 | BB3 | JingHaiHou | 15"/42 cal Mark III | ?| 80 | ? | ?|
 | BB4 | Yan Gong | 16"/45 cal Mark IV L | ?| 80 | ? | ?|
 | BB5 | Ming Zhao | 18.89"/45 cal Model 1949-100 |20.00-40| 80-35 | 29.59 | 1350+252|
+
+
+
+Update1
+Update2
