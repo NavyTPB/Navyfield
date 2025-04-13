@@ -27,13 +27,13 @@ BOTS
 ### Kriegsmarine 
 | Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline Low-High | Damgage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | Type-II-37 | 3--21¨G7eT1S | ? | 42-53 | 10.92-4120 | 18.964 |
-| SS2 | Type VIIA-46 | 4--21¨G7eT1S--1 | ? | 42-53 | 10.92-4120 | 18.964 |
+| SS1 | Type-II-37 | 3--21¨G7eT1S | ? | 42-53 | 10.92-7.63 | 18.964 |
+| SS2 | Type VIIA-46 | 4--21¨G7eT1S--1 | ? | 42-53 | 10.92-7.63 | 18.964 |
 | SS3 | Type VIIC-59 | 4--21¨G7eT2S--2 | ? | 43-54| 11.47-8.11 | 20.860 |
 | SS4 | Type U-Flak I-74 | 4--21¨G7eT2S--1 | ? | 43-54 | 11.47-8.11 | 20.860 |
-| SS5 | Type IX D2-95 | 4--21¨G7e T4S--2 | ? | 44-55 | 12.04-4542 | 22.946 |
-| SS6 | Type XXI-105 |6-- 21¨G7e T4S--0 | ? | 44-55 | 12.04-4542 | 22.946  |
-| ESS | X C 40 -95| 4--21¨G7e T4S--2 | ? | 55-63 | 13.24 -4996 | 22.946  |
+| SS5 | Type IX D2-95 | 4--21¨G7e T4S--2 | ? | 44-55 | 12.04-8.47 | 22.946 |
+| SS6 | Type XXI-105 |6-- 21¨G7e T4S--0 | ? | 44-55 | 12.04-8.47 | 22.946  |
+| ESS | X C 40 -95| 4--21¨G7e T4S--2 | ? | 55-63 | 13.24 -9.25 | 22.946  |
 
 ### Imperial Navy 
 | Class | Ship-Lvl  | F--Torp--R | Reload | Speed Low-High | Range Guideline Low-High | Damage |
