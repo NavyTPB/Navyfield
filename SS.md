@@ -14,7 +14,7 @@ BOTS
 | ESS | Tambor-96 | 6--21¨Mark15S--4 | 43-54 | 9.1 | 22.254 |
 
 ### Royal Navy 
-| Class | Ship-Lvl  | F--Torp--R |  Speed Low-High | Range Guideline Low-High | Damage ||
+| Class | Ship-Lvl  | F--Torp--R |  Speed Low-High | Range Guideline  | Damage ||
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | H Type-37 | 4--21¨MarkIX S--0 |40-50 | 7.4| 17.952 |
 | SS2 | Oberon -47 | 5--21¨MarkIX S--2 | 40-50 | 7.4  | 17.952 |
@@ -25,7 +25,7 @@ BOTS
 | ESS | Safari-95 | 6-- 21¨MarkIX* S--0 | 42-53 | 9.2 | 21.721 |
 
 ### Kriegsmarine 
-| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline Low-High | Damgage |
+| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline | Damgage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | Type-II-37 | 3--21¨G7eT1S | ? | 42-53 | 7.7 | 18.964 |
 | SS2 | Type VIIA-46 | 4--21¨G7eT1S--1 | ? | 42-53 | 7.7 | 18.964 |
@@ -36,7 +36,7 @@ BOTS
 | ESS | X C 40 -95| 4--21¨G7e T4S--2 | ? | 55-63 | 9.3 | 22.946  |
 
 ### Imperial Navy 
-| Class | Ship-Lvl  | F--Torp--R | Reload | Speed Low-High | Range Guideline Low-High | Damage |
+| Class | Ship-Lvl  | F--Torp--R | Reload | Speed Low-High | Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | Vickers L3-38 | 6--21¨Type89--0 | ? | 43-54 | 7.8 | 20.174 |
 | SS2 | Junsen Type I-49 | 6--21¨Type89--2 | ? | 43-54 | 7.8 | 20.174 |
@@ -47,7 +47,7 @@ BOTS
 | ESS | J54-97 | 6--21¨Type95 M2--0 | ? | 46-55 | 9.4 | 24.410 |
 
 ### Marine Nationale 
-| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline Low-High | Damage |
+| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | Sirene-38 | 6--21.65¨24v--1 | ? | 42-53 | 7.6 | 18.871 |
 | SS2 | Requin-48 | 6--21.65¨24v--2 | ? | 42-53 | 7.6 | 18.871 |
@@ -58,7 +58,7 @@ BOTS
 | ESS6 | Minerve-96 |6--21.65¨M2624VR--2 | ? | 44-55 | 9.0 | 22.833 |
 
 ### Soviet Navy 
-| Class | Ship  | F--Torp--R | Reload | Speed Low-High |  Range Guideline Low-High | Damage |
+| Class | Ship  | F--Torp--R | Reload | Speed Low-High |  Range Guideline  | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | Shch-39 | 4--21¨53-39--2 | ? | 44-58 | 7.8 | 17.483 |
 | SS2 | L-49 |4-- 21¨53-39 --2 | ? | 44-58  | 7.8 | 17.483 |
@@ -69,7 +69,7 @@ BOTS
 | ESS |L XI-97 | 6-- 21¨ET-46--4 | ? | 43-63  | 9.4 | 20.549 |
 
 ### Regia Marina 
-| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline low-High | Damage |
+| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline  | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | Bragadin -39| 53.3cm W 250 | ? | 46-57 | 7.4 | 24.200 |
 | SS2 | Perla-49 | 53.3cm W 250 | ? | 46-57 | 7.4  | 24.200 |
@@ -80,7 +80,7 @@ BOTS
 | ESS | Liuzi-97 | 53.3cm W 250 | ? | 46-57  | 8.9 | 24.200 |
 
 ### China Navy 
-| Class | Ship  | F--Torps--R | Reload | Speed Low-High | Range Guideline Low-High | Damage|
+| Class | Ship  | F--Torps--R | Reload | Speed Low-High | Range Guideline  | Damage|
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | HaiGou | 0 | ? | 0 | 0 | 0 |
 | SS5 | HaiXiang | 6--CN 21" ET-46--4| ? | 43-63 | 9.4 | 20.549 |
