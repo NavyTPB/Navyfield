@@ -14,7 +14,7 @@ BOTS
 | ESS | Tambor-96 | 6--21¨Mark15S--4 | 43-54 | 9.1 | 22.254 |
 
 ### Royal Navy 
-| Class | Ship-Lvl  | F--Torp--R |  Speed Low-High | Range Guideline Low-High | Damage |
+| Class | Ship-Lvl  | F--Torp--R |  Speed Low-High | Range Guideline Low-High | Damage ||
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | H Type-37 | 4--21¨MarkIX S--0 |40-50 | 7.4| 17.952 |
 | SS2 | Oberon -47 | 5--21¨MarkIX S--2 | 40-50 | 7.4  | 17.952 |
