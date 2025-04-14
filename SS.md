@@ -3,15 +3,15 @@ BOTS
 
 
 ### U.S. Navy 
-| Class | Ship-Lvl  | F--Torp--R| Reload | Speed low-High |  Range Guideline Low-High | Damage |
+| Class | Ship-Lvl  | F--Torp--R| Speed low-High |  Max Range Guideline | Damage | |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | O Type-38 | 4--21¨ Mark11S--0 | ? | 41-52 | 10.14-7.33 | 18.392 |
-| SS2 | S Type-48 | 4--21¨ Mark11S--0 | ? | 41-52 | 10.14-7.33 | 18.392 |
-| SS3 | Barracuda-61 | 4--21¨ Mark12S--2 | ? |  41-52  | 10.65-7.62 | 20.231 |
-| SS4 | Cachalot-76 | 4--21¨ Mark12S--2 | ? |  41-52  | 10.62-7.62 | 20.231 |
-| SS5 | Gato-97 | 6-- 21¨ Mark15S--4 | ? |  43-54  | 11.18-8.08 | 22.254 |
-| SS6 | Balao-105 | 6--21¨ Mark15S--4 | ? |  43-54  | 11.18-8.08 | 22.254 |
-| ESS | Tambor-96 | 6--21¨ Mark15S--4 | ? |  43-54 | 12.30-8.89 | 22.254 |
+| SS1 | O Type-38 | 4--21¨Mark11S--0 | ? | 41-52 | 10.14-7.33 | 18.392 |
+| SS2 | S Type-48 | 4--21"Mark11S--0 | ? | 41-52 | 10.14-7.33 | 18.392 |
+| SS3 | Barracuda-61 | 4--21¨Mark12S--2 | ? |  41-52  | 10.65-7.62 | 20.231 |
+| SS4 | Cachalot-76 | 4--21¨Mark12S--2 | ? |  41-52  | 10.62-7.62 | 20.231 |
+| SS5 | Gato-97 | 6-- 21¨Mark15S--4 | ? |  43-54  | 11.18-8.08 | 22.254 |
+| SS6 | Balao-105 | 6--21¨Mark15S--4 | ? |  43-54  | 11.18-8.08 | 22.254 |
+| ESS | Tambor-96 | 6--21¨Mark15S--4 | ? |  43-54 | 12.30-8.89 | 22.254 |
 
 ### Royal Navy 
 | Class | Ship-Lvl  | F--Torp--R | Reload | Speed Low-High | Range Guideline Low-High | Damage |
