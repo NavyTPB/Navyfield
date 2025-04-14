@@ -3,7 +3,7 @@ BOTS
 
 
 ### U.S. Navy 
-| Class | Ship-Lvl  | F--Torp--R| Speed low-High |  Max Range Guideline | Damage | |
+| Class | Ship-Lvl  | F--Torp--R| Speed low-High |  Max Range Guideline | Damage | Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | O Type-38 | 4--21¨Mark11S--0 | 41-52 | 7.2 | 18.392 |
 | SS2 | S Type-48 | 4--21"Mark11S--0 | 41-52 | 7.2 | 18.392 |
