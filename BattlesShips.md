@@ -1,7 +1,5 @@
 BOTS
 
-- 1
-- *2*: 
 
 
 ### U.S. Navy 
@@ -152,8 +150,8 @@ BOTS
 ### Notas
 
 - RB= round bind
-- Sailors limited Prueba n2 el reload al maximo se queda en el 27%-33% del indicado
-- It's just a guideline
+- Test1
+- Test2
 
  
 
