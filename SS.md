@@ -3,26 +3,26 @@ BOTS
 
 
 ### U.S. Navy 
-| Class | Ship-Lvl  | F--Torp--R| Speed low-High |  Max Range Guideline | Damage | Dive time |
+| Class | Ship-Lvl  | F--Torp--R| Speed low-High |  Max Range --Guideline | Damage | Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | O Type-38 | 4--21¨Mark11S--0 | 41-52 | 7.2 | 18.392 |
-| SS2 | S Type-48 | 4--21"Mark11S--0 | 41-52 | 7.2 | 18.392 |
-| SS3 | Barracuda-61 | 4--21¨Mark12S--2 |  41-52  | 7.5 | 20.231 |
-| SS4 | Cachalot-76 | 4--21¨Mark12S--2 |  41-52  | 7.5 | 20.231 |
-| SS5 | Gato-97 | 6-- 21¨Mark15S--4 |  43-54  | 8.00 | 22.254 |
-| SS6 | Balao-105 | 6--21¨Mark15S--4 | 43-54  | 8.00 | 22.254 |
-| ESS | Tambor-96 | 6--21¨Mark15S--4 | 43-54 | 9.1 | 22.254 |
+| SS1 | O Type-38 | 4--21¨Mark11S--0 | 41-52 | 5.480-- 7.2 | 18.392 |
+| SS2 | S Type-48 | 4--21"Mark11S--0 | 41-52 | 5.48--7.2 | 18.392 |
+| SS3 | Barracuda-61 | 4--21¨Mark12S--2 |  41-52  | 5.754--7.5 | 20.231 |
+| SS4 | Cachalot-76 | 4--21¨Mark12S--2 |  41-52  | 5754--7.5 | 20.231 |
+| SS5 | Gato-97 | 6-- 21¨Mark15S--4 |  43-54  | 6.041--8.00 | 22.254 |
+| SS6 | Balao-105 | 6--21¨Mark15S--4 | 43-54  | 6.041--8.00 | 22.254 |
+| ESS | Tambor-96 | 6--21¨Mark15S--4 | 43-54 | 6.641--9.1 | 22.254 |
 
 ### Royal Navy 
 | Class | Ship-Lvl  | F--Torp--R |  Speed Low-High | Range Guideline  | Damage ||
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | H Type-37 | 4--21¨MarkIX S--0 |40-50 | 7.4| 17.952 |
-| SS2 | Oberon -47 | 5--21¨MarkIX S--2 | 40-50 | 7.4  | 17.952 |
-| SS3 | P Type-60 | 5--21¨MarkVII S--2 |41-52 | 7.6  | 19.747 |
-| SS4 | R Type-75 | 5--21¨MarkVII S--2 | 41-52 | 7.6 | 19.747 |
-| SS5 | M Type-96 | 4--21¨MarkIX** S--0 | 42-53 | 7.8 | 21.721 |
-| SS6 | A Type-105 | 6--21¨MarkIX** S--4 | 42-53 | 7.8 | 21.721 |
-| ESS | Safari-95 | 6-- 21¨MarkIX* S--0 | 42-53 | 9.2 | 21.721 |
+| SS1 | H Type-37 | 4--21¨MarkIX S--0 |40-50 | 5.340--7.4| 17.952 |
+| SS2 | Oberon -47 | 5--21¨MarkIX S--2 | 40-50 | 5.340--7.4  | 17.952 |
+| SS3 | P Type-60 | 5--21¨MarkVII S--2 |41-52 | 5.607--7.6  | 19.747 |
+| SS4 | R Type-75 | 5--21¨MarkVII S--2 | 41-52 | 5.607--7.6 | 19.747 |
+| SS5 | M Type-96 | 4--21¨MarkIX** S--0 | 42-53 | 5.8877.8 | 21.721 |
+| SS6 | A Type-105 | 6--21¨MarkIX** S--4 | 42-53 | 5.887--7.8 | 21.721 |
+| ESS | Safari-95 | 6-- 21¨MarkIX* S--0 | 42-53 | 6.476--9.0 | 21.721 |
 
 ### Kriegsmarine 
 | Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline | Damgage |
