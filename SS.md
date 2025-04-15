@@ -87,5 +87,7 @@ BOTS
 | SS6 | HaiLong | 6--21¨G7e T4S--4 | ? | 55-63 | 9.3 | 22.946 |
 | ESS | O33-Type | 6-- 21¨G7e T4S+mines | ? | 55-63 | 9.3 | 22.946 |
 
--F= front R=Rear
--Torps 21"G7eT XX= Explode by proximity
+
+ - F=front
+- Torps 21"G7eT XX= Explode by proximity
+
