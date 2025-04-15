@@ -5,16 +5,16 @@ BOTS
 ### U.S. Navy 
 | Class | Ship-Lvl  | F--Torp--R| Speed low-High |  Max Range --Guideline | Damage | Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | O Type-38 | 4--21¨Mark11S--0 | 41-52 | 5.480-- 7.2 | 18.392 |
-| SS2 | S Type-48 | 4--21"Mark11S--0 | 41-52 | 5.48--7.2 | 18.392 |
-| SS3 | Barracuda-61 | 4--21¨Mark12S--2 |  41-52  | 5.754--7.5 | 20.231 |
-| SS4 | Cachalot-76 | 4--21¨Mark12S--2 |  41-52  | 5754--7.5 | 20.231 |
+| SS1 | O Type-38 | 4--21¨Mark11S--0 | 41-52 | 5.480-- 7.3 | 18.392 |
+| SS2 | S Type-48 | 4--21"Mark11S--0 | 41-52 | 5.480--7.3 | 18.392 |
+| SS3 | Barracuda-61 | 4--21¨Mark12S--2 |  41-52  | 5.754--7.6 | 20.231 |
+| SS4 | Cachalot-76 | 4--21¨Mark12S--2 |  41-52  | 5754--7.6 | 20.231 |
 | SS5 | Gato-97 | 6-- 21¨Mark15S--4 |  43-54  | 6.041--8.00 | 22.254 |
 | SS6 | Balao-105 | 6--21¨Mark15S--4 | 43-54  | 6.041--8.00 | 22.254 |
 | ESS | Tambor-96 | 6--21¨Mark15S--4 | 43-54 | 6.641--9.1 | 22.254 |
 
 ### Royal Navy 
-| Class | Ship-Lvl  | F--Torp--R |  Speed Low-High | Range Guideline  | Damage ||
+| Class | Ship-Lvl  | F--Torp--R |  Speed Low-High | Range Guideline  | Damage | Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | SS1 | H Type-37 | 4--21¨MarkIX S--0 |40-50 | 5.340--7.4| 17.952 |
 | SS2 | Oberon -47 | 5--21¨MarkIX S--2 | 40-50 | 5.340--7.4  | 17.952 |
@@ -25,59 +25,59 @@ BOTS
 | ESS | Safari-95 | 6-- 21¨MarkIX* S--0 | 42-53 | 6.476--9.0 | 21.721 |
 
 ### Kriegsmarine 
-| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline | Damgage |
+| Class | Ship  | F--Torp--R |  Speed Low-High | Range Guideline | Damgage | Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | Type-II-37 | 3--21¨G7eT1S | ? | 42-53 | 5.900--7.7 | 18.964 |
-| SS2 | Type VIIA-46 | 4--21¨G7eT1S--1 | ? | 42-53 | 5.900--7.7 | 18.964 |
-| SS3 | Type VIIC-59 | 4--21¨G7eT2S--2 | ? | 43-54| 6.1258 | 20.860 |
-| SS4 | Type U-Flak I-74 | 4--21¨G7eT2S--1 | ? | 43-54 | 6.1258 | 20.860 |
-| SS5 | Type IX D2-95 | 4--21¨G7e T4S--2 | ? | 44-55 | 8.5 | 22.946 |
-| SS6 | Type XXI-105 |6-- 21¨G7e T4S--0 | ? | 44-55 | 8.5 | 22.946  |
-| ESS | X C 40 -95| 4--21¨G7e T4S--2 | ? | 55-63 | 9.3 | 22.946  |
+| SS1 | Type-II-37 | 3--21¨G7eT1S | 42-53 | 5.900--7.7 | 18.964 |
+| SS2 | Type VIIA-46 | 4--21¨G7eT1S--1 | 42-53 | 5.900--7.8 | 18.964 |
+| SS3 | Type VIIC-59 | 4--21¨G7eT2S--2 |  43-54| 6.125--8 | 20.860 |
+| SS4 | Type U-Flak I-74 | 4--21¨G7eT2S--1 |  43-54 | 6.125--8 | 20.860 |
+| SS5 | Type IX D2-95 | 4--21¨G7e T4S--2 |  44-55 | 6.504--8.5 | 22.946 |
+| SS6 | Type XXI-105 |6-- 21¨G7e T4S--0 |  44-55 | 6.504--8.5 | 22.946  |
+| ESS | X C 40 -95| 4--21¨G7e T4S--2 |  55-63 | 7.154--9.3 | 22.946  |
 
 ### Imperial Navy 
-| Class | Ship-Lvl  | F--Torp--R | Reload | Speed Low-High | Range Guideline | Damage |
+| Class | Ship-Lvl  | F--Torp--R | Speed Low-High | Range Guideline | Damage | Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | Vickers L3-38 | 6--21¨Type89--0 | ? | 43-54 | 7.8 | 20.174 |
-| SS2 | Junsen Type I-49 | 6--21¨Type89--2 | ? | 43-54 | 7.8 | 20.174 |
-| SS3 | Kaidai VIA-62 | 4--21¨Type95 M1--2  | ? | 44-55 | 8.2 | 22.191 |
-| SS4 | Hei TypeI-77 | 21¨Type95 M1 | ? | 44-55 | 8.2 | 22.191 |
-| SS5 | Kai-Kou-98 | 6--21¨Type95 M2--0 | ? | 46-56 | 9.1 | 24.410 |
-| SS6 | I-400-105 | 8--21¨Type95 M2--0 | ? | 46-56 | 9.1 | 24.410 |
-| ESS | J54-97 | 6--21¨Type95 M2--0 | ? | 46-55 | 9.4 | 24.410 |
+| SS1 | Vickers L3-38 | 6--21¨Type89--0 | 43-54 | 6.000--7.8 | 20.174 |
+| SS2 | Junsen Type I-49 | 6--21¨Type89--2 |  43-54 | 6.000--7.8 | 20.174 |
+| SS3 | Kaidai VIA-62 | 4--21¨Type95 M1--2  |  44-55 | 6.300--8.2 | 22.191 |
+| SS4 | Hei TypeI-77 | 21¨Type95 M1 |  44-55 | 6.300--8.2 | 22.191 |
+| SS5 | Kai-Kou-98 | 6--21¨Type95 M2--0 | 46-56 | 6.615--9.1 | 24.410 |
+| SS6 | I-400-105 | 8--21¨Type95 M2--0 | 46-56 | 6.615--9.1 | 24.410 |
+| ESS | J54-97 | 6--21¨Type95 M2--0 | 46-55 | 7.277--9.4 | 24.410 |
 
 ### Marine Nationale 
-| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline | Damage |
+| Class | Ship  | F--Torp--R | Speed Low-High | Range Guideline | Damage | Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | Sirene-38 | 6--21.65¨24v--1 | ? | 42-53 | 7.6 | 18.871 |
-| SS2 | Requin-48 | 6--21.65¨24v--2 | ? | 42-53 | 7.6 | 18.871 |
-| SS3 | Redoutable-61 |5-- 15´75¨26V--2 | ? | 43-54  | 7.8 | 20.757  |
-| SS4 | Argonaute-76 | 5--15´75¨26V--2 | ? | 43-54 | 7.8 | 20.757 |
-| SS5 | Surcouf-97 | 6--15´75¨M2626VR--2 | ? | 44-55 | 8.1 | 22.833 |
-| SS6 | L'Aurore-105 | 5--15´75¨M26VR--2 | ? | 44-55 | 8.0 | 22.833 |
-| ESS6 | Minerve-96 |6--21.65¨M2624VR--2 | ? | 44-55 | 9.0 | 22.833 |
+| SS1 | Sirene-38 | 6--21.65¨24v--1 | 42-53 | 5.680--7.6 | 18.871 |
+| SS2 | Requin-48 | 6--21.65¨24v--2 | 42-53 | 5.680--7.6 | 18.871 |
+| SS3 | Redoutable-61 |5-- 15´75¨26V--2 | 43-54  | 5.964--7.8 | 20.757  |
+| SS4 | Argonaute-76 | 5--15´75¨26V--2 | 43-54 | 5.964--7.8 | 20.757 |
+| SS5 | Surcouf-97 | 6--15´75¨M2626VR--2 | 44-55 | 6.262--8.1 | 22.833 |
+| SS6 | L'Aurore-105 | 5--15´75¨M26VR--2 | 44-55 | 6.262--8.0 | 22.833 |
+| ESS6 | Minerve-96 |6--21.65¨M2624VR--2 |  44-55 | 6.888--9.2 | 22.833 |
 
 ### Soviet Navy 
-| Class | Ship  | F--Torp--R | Reload | Speed Low-High |  Range Guideline  | Damage |
+| Class | Ship  | F--Torp--R |Speed Low-High |  Range Guideline  | Damage | Dive Time
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | Shch-39 | 4--21¨53-39--2 | ? | 44-58 | 7.8 | 17.483 |
-| SS2 | L-49 |4-- 21¨53-39 --2 | ? | 44-58  | 7.8 | 17.483 |
-| SS3 | P-62 | 4--21¨ET-80--2 | ? | 44-59  | 8.1 | 19.681 |
-| SS4 | S-77 | 4--21¨ET-80--2  | ? | 44-59  | 8.1 | 19.681 |
-| SS5 | D-98 | 6--21¨ET-46--2  | ?  | 43-63  | 9 | 20.549 |
-| SS6 | K-105 | 6--21¨ET-46--2  | ? | 43-63  | 9 | 20.549 |
-| ESS |L XI-97 | 6-- 21¨ET-46--4 | ? | 43-63  | 9.4 | 20.549 |
+| SS1 | Shch-39 | 4--21¨53-39--2 | 44-58 | 5.950--7.8 | 17.483 |
+| SS2 | L-49 |4-- 21¨53-39 --2 |  44-58  | 5.950--7.8 | 17.483 |
+| SS3 | P-62 | 4--21¨ET-80--2 |  44-59  | 6.250--8.1 | 19.681 |
+| SS4 | S-77 | 4--21¨ET-80--2  |  44-59  | 6.250--8.1 | 19.681 |
+| SS5 | D-98 | 6--21¨ET-46--2  | 43-63  | 6.600--9 | 20.549 |
+| SS6 | K-105 | 6--21¨ET-46--2  |  43-63  | 6.600--9.1 | 20.549 |
+| ESS |L XI-97 | 6-- 21¨ET-46--4 |  43-63  | 7.240--9.4 | 20.549 |
 
 ### Regia Marina 
-| Class | Ship  | F--Torp--R | Reload | Speed Low-High | Range Guideline  | Damage |
+| Class | Ship  | F--Torp--R | Speed Low-High | Range Guideline  | Damage | Dive time
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | Bragadin -39| 53.3cm W 250 | ? | 46-57 | 7.4 | 24.200 |
-| SS2 | Perla-49 | 53.3cm W 250 | ? | 46-57 | 7.4  | 24.200 |
-| SS3 | Argo-61 | 53.3cm W 250 | ? | 46-57 | 7.6  | 24.200 |
-| SS4 | Brin- 77| 53.3cm W 250 | ? | 46-57 | 7.6 | 24.200 |
-| SS5 | Marcello-97 | 53.3cm W 250 | ? | 46-57 | 8 | 24.200 |
-| SS6 | Ammirglio Cagni-105 | 53.3cm W 250 | ? | 46-57  | 8  | 24.200 |
-| ESS | Liuzi-97 | 53.3cm W 250 | ? | 46-57  | 8.9 | 24.200 |
+| SS1 | Bragadin -39| 53.3cm W 270F | 46-57 | 5.498--7.4 | 24.200 |
+| SS2 | Perla-49 | 53.3cm W 270F | 46-57 | 5.498--7.4  | 24.200 |
+| SS3 | Argo-61 | 53.3cm W 250 | 46-57 | 5.773--7.6  | 24.200 |
+| SS4 | Brin- 77| 53.3cm W 250 | 46-57 | 5.773--7.6 | 24.200 |
+| SS5 | Marcello-97 | 53.3cm W 270V| 46-57 | 6.061--8 | 24.200 |
+| SS6 | Ammirglio Cagni-105 | 53.3cm W 270V | 46-57  | 6.060--8  | 24.200 |
+| ESS | Liuzi-97 | 53.3cm W 270V | 46-57  | 6.667--8.9 | 24.200 |
 
 ### China Navy 
 | Class | Ship  | F--Torps--R | Reload | Speed Low-High | Range Guideline  | Damage|
