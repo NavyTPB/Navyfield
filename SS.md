@@ -82,7 +82,6 @@ BOTS
 ### China Navy 
 | Class | Ship  | F--Torps--R |  Speed Low-High | Range Guideline  | Damage|Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-
 | SS5 | HaiXiang | 6--CN 21" ET-46--4| 43-63 | 9.4 | 20.549 | 210
 | SS6 | HaiLong | 6--21¨G7e T4S--4 | 55-63 | 9.3 | 22.946 | 225
 | ESS | O33-Type | 6-- 21¨G7e T4S+mines |  55-63 | 9.3 | 22.946 | 225
