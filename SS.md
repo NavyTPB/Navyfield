@@ -9,9 +9,9 @@ BOTS
 | SS2 | S Type-48 | 4--21"Mark11S--0 | 41-52 | 5.480--7.3 | 18.392 |
 | SS3 | Barracuda-61 | 4--21¨Mark12S--2 |  41-52  | 5.754--7.6 | 20.231 |
 | SS4 | Cachalot-76 | 4--21¨Mark12S--2 |  41-52  | 5754--7.6 | 20.231 |
-| SS5 | Gato-97 | 6-- 21¨Mark15S--4 |  43-54  | 6.041--8.00 | 22.254 |
-| SS6 | Balao-105 | 6--21¨Mark15S--4 | 43-54  | 6.041--8.00 | 22.254 |
-| ESS | Tambor-96 | 6--21¨Mark15S--4 | 43-54 | 6.641--9.1 | 22.254 |
+| SS5 | Gato-97 | 6-- 21¨Mark15S--4 |  43-54  | 6.041--8.00 | 22.254 | 210
+| SS6 | Balao-105 | 6--21¨Mark15S--4 | 43-54  | 6.041--8.00 | 22.254 | 216
+| ESS | Tambor-96 | 6--21¨Mark15S--4 | 43-54 | 6.641--9.1 | 22.254 | 225
 
 ### Royal Navy 
 | Class | Ship-Lvl  | F--Torp--R |  Speed Low-High | Range Guideline  | Damage | Dive time |
@@ -20,9 +20,9 @@ BOTS
 | SS2 | Oberon -47 | 5--21¨MarkIX S--2 | 40-50 | 5.340--7.4  | 17.952 |
 | SS3 | P Type-60 | 5--21¨MarkVII S--2 |41-52 | 5.607--7.6  | 19.747 |
 | SS4 | R Type-75 | 5--21¨MarkVII S--2 | 41-52 | 5.607--7.6 | 19.747 |
-| SS5 | M Type-96 | 4--21¨MarkIX** S--0 | 42-53 | 5.887--7.8 | 21.721 |
-| SS6 | A Type-105 | 6--21¨MarkIX** S--4 | 42-53 | 5.887--7.8 | 21.721 |
-| ESS | Safari-95 | 6-- 21¨MarkIX* S--0 | 42-53 | 6.476--9.0 | 21.721 |
+| SS5 | M Type-96 | 4--21¨MarkIX** S--0 | 42-53 | 5.887--7.8 | 21.721 | 210
+| SS6 | A Type-105 | 6--21¨MarkIX** S--4 | 42-53 | 5.887--7.8 | 21.721 | 216
+| ESS | Safari-95 | 6-- 21¨MarkIX* S--0 | 42-53 | 6.476--9.0 | 21.721 | 225
 
 ### Kriegsmarine 
 | Class | Ship  | F--Torp--R |  Speed Low-High | Range Guideline | Damgage | Dive time |
@@ -31,9 +31,9 @@ BOTS
 | SS2 | Type VIIA-46 | 4--21¨G7eT1S--1 | 42-53 | 5.900--7.8 | 18.964 |
 | SS3 | Type VIIC-59 | 4--21¨G7eT2S--2 |  43-54| 6.125--8 | 20.860 |
 | SS4 | Type U-Flak I-74 | 4--21¨G7eT2S--1 |  43-54 | 6.125--8 | 20.860 |
-| SS5 | Type IX D2-95 | 4--21¨G7e T4S--2 |  44-55 | 6.504--8.5 | 22.946 |
-| SS6 | Type XXI-105 |6-- 21¨G7e T4S--0 |  44-55 | 6.504--8.5 | 22.946  |
-| ESS | X C 40 -95| 4--21¨G7e T4S--2 |  55-63 | 7.154--9.3 | 22.946  |
+| SS5 | Type IX D2-95 | 4--21¨G7e T4S--2 |  44-55 | 6.504--8.5 | 22.946 | 210
+| SS6 | Type XXI-105 |6-- 21¨G7e T4S--0 |  44-55 | 6.504--8.5 | 22.946  | 216
+| ESS | X C 40 -95| 4--21¨G7e T4S--2 |  55-63 | 7.154--9.3 | 22.946  | 225
 
 ### Imperial Navy 
 | Class | Ship-Lvl  | F--Torp--R | Speed Low-High | Range Guideline | Damage | Dive time |
@@ -42,9 +42,9 @@ BOTS
 | SS2 | Junsen Type I-49 | 6--21¨Type89--2 |  43-54 | 6.000--7.8 | 20.174 |
 | SS3 | Kaidai VIA-62 | 4--21¨Type95 M1--2  |  44-55 | 6.300--8.2 | 22.191 |
 | SS4 | Hei TypeI-77 | 21¨Type95 M1 |  44-55 | 6.300--8.2 | 22.191 |
-| SS5 | Kai-Kou-98 | 6--21¨Type95 M2--0 | 46-56 | 6.615--9.1 | 24.410 |
-| SS6 | I-400-105 | 8--21¨Type95 M2--0 | 46-56 | 6.615--9.1 | 24.410 |
-| ESS | J54-97 | 6--21¨Type95 M2--0 | 46-55 | 7.277--9.4 | 24.410 |
+| SS5 | Kai-Kou-98 | 6--21¨Type95 M2--0 | 46-56 | 6.615--9.1 | 24.410 | 220
+| SS6 | I-400-105 | 8--21¨Type95 M2--0 | 46-56 | 6.615--9.1 | 24.410 | 225
+| ESS | J54-97 | 6--21¨Type95 M2--0 | 46-55 | 7.277--9.4 | 24.410 | 225 
 
 ### Marine Nationale 
 | Class | Ship  | F--Torp--R | Speed Low-High | Range Guideline | Damage | Dive time |
@@ -53,9 +53,9 @@ BOTS
 | SS2 | Requin-48 | 6--21.65¨24v--2 | 42-53 | 5.680--7.6 | 18.871 |
 | SS3 | Redoutable-61 |5-- 15´75¨26V--2 | 43-54  | 5.964--7.8 | 20.757  |
 | SS4 | Argonaute-76 | 5--15´75¨26V--2 | 43-54 | 5.964--7.8 | 20.757 |
-| SS5 | Surcouf-97 | 6--15´75¨M2626VR--2 | 44-55 | 6.262--8.1 | 22.833 |
-| SS6 | L'Aurore-105 | 5--15´75¨M26VR--2 | 44-55 | 6.262--8.0 | 22.833 |
-| ESS6 | Minerve-96 |6--21.65¨M2624VR--2 |  44-55 | 6.888--9.2 | 22.833 |
+| SS5 | Surcouf-97 | 6--15´75¨M2626VR--2 | 44-55 | 6.262--8.1 | 22.833 | 205
+| SS6 | L'Aurore-105 | 5--15´75¨M26VR--2 | 44-55 | 6.262--8.0 | 22.833 | 216
+| ESS6 | Minerve-96 |6--21.65¨M2624VR--2 |  44-55 | 6.888--9.2 | 22.833 | 225
 
 ### Soviet Navy 
 | Class | Ship  | F--Torp--R |Speed Low-High |  Range Guideline  | Damage | Dive Time
@@ -64,9 +64,9 @@ BOTS
 | SS2 | L-49 |4-- 21¨53-39 --2 |  44-58  | 5.950--7.8 | 17.483 |
 | SS3 | P-62 | 4--21¨ET-80--2 |  44-59  | 6.250--8.1 | 19.681 |
 | SS4 | S-77 | 4--21¨ET-80--2  |  44-59  | 6.250--8.1 | 19.681 |
-| SS5 | D-98 | 6--21¨ET-46--2  | 43-63  | 6.600--9 | 20.549 |
-| SS6 | K-105 | 6--21¨ET-46--2  |  43-63  | 6.600--9.1 | 20.549 |
-| ESS |L XI-97 | 6-- 21¨ET-46--4 |  43-63  | 7.240--9.4 | 20.549 |
+| SS5 | D-98 | 6--21¨ET-46--2  | 43-63  | 6.600--9 | 20.549 | 205
+| SS6 | K-105 | 6--21¨ET-46--2  |  43-63  | 6.600--9.1 | 20.549 | 216
+| ESS |L XI-97 | 6-- 21¨ET-46--4 |  43-63  | 7.240--9.4 | 20.549 | 225
 
 ### Regia Marina 
 | Class | Ship  | F--Torp--R | Speed Low-High | Range Guideline  | Damage | Dive time
@@ -75,19 +75,19 @@ BOTS
 | SS2 | Perla-49 | 53.3cm W 270F | 46-57 | 5.498--7.4  | 24.200 |
 | SS3 | Argo-61 | 53.3cm W 250 | 46-57 | 5.773--7.6  | 24.200 |
 | SS4 | Brin- 77| 53.3cm W 250 | 46-57 | 5.773--7.6 | 24.200 |
-| SS5 | Marcello-97 | 53.3cm W 270V| 46-57 | 6.061--8 | 24.200 |
-| SS6 | Ammirglio Cagni-105 | 53.3cm W 270V | 46-57  | 6.060--8  | 24.200 |
-| ESS | Liuzi-97 | 53.3cm W 270V | 46-57  | 6.667--8.9 | 24.200 |
+| SS5 | Marcello-97 | 53.3cm W 270V| 46-57 | 6.061--8 | 24.200 | 210
+| SS6 | Ammirglio Cagni-105 | 53.3cm W 270V | 46-57  | 6.060--8  | 24.200 | 216
+| ESS | Liuzi-97 | 53.3cm W 270V | 46-57  | 6.667--8.9 | 24.200 | 225
 
 ### China Navy 
-| Class | Ship  | F--Torps--R | Reload | Speed Low-High | Range Guideline  | Damage|
+| Class | Ship  | F--Torps--R |  Speed Low-High | Range Guideline  | Damage|Dive time |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| SS1 | HaiGou | 0 | ? | 0 | 0 | 0 |
-| SS5 | HaiXiang | 6--CN 21" ET-46--4| ? | 43-63 | 9.4 | 20.549 |
-| SS6 | HaiLong | 6--21¨G7e T4S--4 | ? | 55-63 | 9.3 | 22.946 |
-| ESS | O33-Type | 6-- 21¨G7e T4S+mines | ? | 55-63 | 9.3 | 22.946 |
+
+| SS5 | HaiXiang | 6--CN 21" ET-46--4| 43-63 | 9.4 | 20.549 | 210
+| SS6 | HaiLong | 6--21¨G7e T4S--4 | 55-63 | 9.3 | 22.946 | 225
+| ESS | O33-Type | 6-- 21¨G7e T4S+mines |  55-63 | 9.3 | 22.946 | 225
 
 
- - F=front
+ - F=front  R=Rear
 - Torps 21"G7eT XX= Explode by proximity
 
