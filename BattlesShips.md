@@ -1,5 +1,8 @@
 BOTS
 
+- New ships and guidelines
+- Update idea-based by Tskspree.
+
 
 
 ### U.S. Navy 
@@ -150,8 +153,7 @@ BOTS
 ### Notas
 
 - RB= round bind
-- Test1
-- Test2
+
 
  
 
