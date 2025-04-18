@@ -28,14 +28,14 @@ BOTS
 | Class | Ship  | Main Gun Shell | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39| 1025 |
-| BB2-65 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.90 | 1355 |
+| BB2-65 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.90 | 1355|
 | BB2-79 | Nelson | 14"/45 Mark III | 15.96-40| 75-35 | | 996 |
 | BB3-72 | King George V | 14"/45 Mark III | 15.96-40| 75-35 | | 996 |
 | EBB3-80| Anson | 14"/45 BL Mark III-75 | 18.20 -40 | 75-30 | ?| 1235 |
 | EBB3 -86| Hood (1939) |  |  | 75- | ? | ? |
 | BB4-89 | Lion I | 16"/45 cal Mark IV L -91 | 18.92 -40 | 80-35 | 28.50 | 1534+248 |
 | BB4-89 | Vangurad | 15"/42 cal Mark IV L -91 | 17.92-30| 80-35 | 29.53 | 1350+242 |
-| EBB4-90| Hood (1943) | 15"/42 cal Mark III-98  | 17.96-30 | 75-35 | 29.03| 1355+184|
+| EBB4-90| Hood (1943) | 15"/42 cal RP12P-98  | 17.96-30 | 75-35 | 29.03| 1355+184|
 | EBB4-96 | Vanguard(1946) | 15"/42 cal RP12 SL -98 | 17.92-30 | 80-35 | 29.03 | 1355 |
 | EBB4-99 | Temeraire | 18" Mark II BL -101 | 19.55-40 | 80-30 | 29.77 | 1525 |
 | BB5 | Lion II | 18"/45 Mark II-100 | 19.52 -40 | 80-30 | 29.77 | 1525+232 |
@@ -110,9 +110,9 @@ BOTS
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40 | 77-40 | 27.29 | 1120 |
-| BB3-79 | Kronshtadt | 12"/55 B-50 Pattern 1940 -79 | 16.20-45| 77-40 | 27.67 | 1050 |
 | BB3-78 | Imperatritsa | 12"/55 B-36 Pattern 1937 -78 | 16.20-45| 77-40 | 27.64 | 1050 |
-| PBB-85 | Project21 | 12.6"/44 Model 1936 | ?| 76 | ? | ? |
+| EBB3-79 | Kronshtadt 1940 | 12"/55 B-50 Pattern 1940 -79 | 16.20-45| 77-40 | 27.67 | 1050 |
+| PBB-85 | Project21 | ? | ?| 76 | ? | ? |
 | BB4 -89| Starlingrad | 16"/45 Pattern 1914-91 | 19.00-45| 80-35 | 29.43 | 1080 |
 | EBB4-96 | Starlingrad (1953) | 16"/45 Pattern 1914-91 | 19.00-45 | 80-35 | 29.43 | 1080 |
 | BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937-100 | 19.72-40 | 80-35 | 29.76 | 1940 |
