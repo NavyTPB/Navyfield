@@ -75,9 +75,9 @@ BOTS
 | SS2 | Perla-49 | 53.3cm W 270F | 46-57 | 5.498--7.4  | 24.200 |
 | SS3 | Argo-61 | 53.3cm W 250 | 46-57 | 5.773--7.6  | 24.200 |
 | SS4 | Brin- 77| 53.3cm W 250 | 46-57 | 5.773--7.6 | 24.200 |
-| SS5 | Marcello-97 | 53.3cm W 270V| 46-57 | 6.061--8 | 24.200 | 210
-| SS6 | Ammirglio Cagni-105 | 53.3cm W 270V | 46-57  | 6.060--8  | 24.200 | 216
-| ESS | Liuzi-97 | 53.3cm W 270V | 46-57  | 6.667--8.9 | 24.200 | 225
+| SS5 | Marcello-97 | 53.3cm W 270V|4-- 46-57--4 | 6.061--8 | 24.200 | 210
+| SS6 | Ammirglio Cagni-105 | 6--53.3cm W 270V--6 | 46-57  | 6.060--8  | 24.200 | 216
+| ESS | Liuzi-97 | 4--53.3cm W 270V--4 | 46-57  | 6.667--8.9 | 24.200 | 225
 
 ### China Navy 
 | Class | Ship  | F--Torps--R |  Speed Low-High | Range Guideline  | Damage|Dive time |
