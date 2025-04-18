@@ -1,7 +1,6 @@
 BOTS
 
 - New ships and guidelines
-- Update idea-based by Tskspree.
 
 
 
@@ -158,6 +157,7 @@ BOTS
 ### Notas
 
 - RB= round bind
+-  Update idea-based by Tskspree.
 
 
  
