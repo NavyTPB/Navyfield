@@ -25,7 +25,7 @@ BOTS
 | BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | 19.92 -40 | 80-30 | 31.22 | 1870 |
 
 ### Royal Navy 
-| Class | Ship  | Main Gun Shell | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
+| Class | Ship  | Main Gun-lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39| 1025 |
 | BB2-65 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.90 | 1355|
@@ -47,7 +47,7 @@ BOTS
 | BB7 | King George VI | 18"/50 Mark III | 20.04-40 | 80-30 | 30.93 | 1650|
 
 ### Kriegsmarine 
-| Class | Ship  | Main Gun Shell | Reload-Grades| FCS-RB | Max Range Guideline | Damgage |
+| Class | Ship  | Main Gun-lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damgage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | KM_Andria Doria | 12.6"/44 Model 1936-65 | 15.04-30 | 78-40 | 27.28 | 940 |
 | BB3-80 | O Project II | 14.96"/52 SK C/34o L | 14.52-30 | 78-35 | 27.86 | 1329+241 |
