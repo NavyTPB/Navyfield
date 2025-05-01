@@ -92,7 +92,7 @@ BOTS
 ### Marine Nationale 
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| PBB1 | MN_Dunkerque | ? | ? | 80 | 2727 | ? |
+| PBB1 | MN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39| 1025 |
 | BB3-63 | Lyon | 13.4"/45 cal Model 1922  -71 | 15.56 -35| 80-40 | 27.38| 1154+249 |
 | EBB3-80 | Lyon (1943) | 13.4"/45 cal Model 1928  -79 | 17.24 -35| 80-40 | 28.83 | 915+249 |
 | BB4-89 | Richelieu | 14.96"/45 cal Model 1935 | 18.56-35 | 80 -35 | 28.63 | 1330 |
