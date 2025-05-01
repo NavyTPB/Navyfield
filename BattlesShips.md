@@ -29,7 +29,8 @@ BOTS
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39 | 1025 |
 | BB1-56 | Revenge | 15"/42 cal Mark III D-69 | 16.32-30 | 75-35 |25.55 | 1355+246 |
-| BB2-65 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.9 | 1355+246 |
+| EBB2-64 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.90 | 1355+246 |
+| BB2-65 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.90 | 1355+246 |
 | BB2-79 | Nelson | 16"/45 Mark I L-80 | 18.40-40 | 75-35 | 2763 | 1500 |
 | BB3-72 | King George V | 14"/45 Mark III L-77 | 17.00-40| 75-35 | 27.80 | 996 |
 | EBB3-80| Anson | 14"/45 BL Mark III-75 | 18.20 -40 | 75-40 | 28.82 | 1235 |
@@ -113,8 +114,9 @@ BOTS
 | Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40 | 77-40 | 27.29 | 1120 |
-| BB3-78 | Imperatritsa | 12"/55 B-36 Pattern 1937 -78 | 16.20-45| 77-40 | 27.64 | 1050 |
-| EBB3-79 | Kronshtadt 1940 | 12"/55 B-50 Pattern 1940 -79 | 16.20-45| 77-40 | 27.67 | 1050 |
+| BB3-78 | Imperatritsa | 12"/55 B-36 Pattern 1937 -78 | 17.00-40 | 77-40 | 27.64 | 1050 |
+| BB3-79 | Kronshtadt | 12"/55 B-50 Pattern 1940 -79 | 16.24-45 | 77-40 | 27.67 | 1050 |
+| EBB3-84 | Kronshtadt 1940 | 12"/55 B-50 Pattern 1940 -79 | 16.20-45| 77-40 | 28.41 | 850 |
 | PBB-85 | Project21 | ? | ?| 76 | ? | ? |
 | BB4 -89| Starlingrad | 16"/45 Pattern 1914-91 | 19.00-45| 80-35 | 29.43 | 1080 |
 | EBB4-96 | Starlingrad (1953) | 16"/45 Pattern 1914-91 | 19.00-45 | 80-35 | 29.43 | 1080 |
