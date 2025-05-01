@@ -27,8 +27,9 @@ BOTS
 ### Royal Navy 
 | Class | Ship  | Main Gun-lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39| 1025 |
-| BB2-65 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.90 | 1355|
+| PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39 | 1025 |
+| BB1-56 | Revenge | 15"/42 cal Mark III D-69 | 16.32-30 | 75-35 |25.55 | 1355+246 |
+| BB2-65 | Queen Elizabeth | 15"/42 cal Mark III-64 | 18.92-30 | 75-35 | 27.9 | 1355+246 |
 | BB2-79 | Nelson | 16"/45 Mark I L-80 | 18.40-40 | 75-35 | 2763 | 1500 |
 | BB3-72 | King George V | 14"/45 Mark III L-77 | 17.00-40| 75-35 | 27.80 | 996 |
 | EBB3-80| Anson | 14"/45 BL Mark III-75 | 18.20 -40 | 75-40 | 28.82 | 1235 |
@@ -71,6 +72,7 @@ BOTS
 | Class | Ship  | Main Gun -Lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | B65 Project | 12.2"/50 Model 1940 -63 | 15-20-45 | 75-40 | ? | 982 |
+| BB1-59 | Kongo | 12.2" Type 98L-56 | 14.76-45 | 75-40 | 25.05 | 650 |
 | BB2-73 | Ise(1943) | 14"/45 Type 43A -68 | 15.72-43 | 75-35 | 26.80 | 916 |
 | BB2-68 |Fuso | 14"/45 Type 43AL -68 | 15.72-43 | 75-35 | 26.80 | 916 |
 | BB3-77 | Nagato | 16.1"/45 Type 90 L  -82 | 15.20-43 | 80-35 | 28.07 | 880 |
