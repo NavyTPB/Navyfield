@@ -25,7 +25,7 @@ BOTS
 | BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | 19.92 -40 | 80-30 | 31.22 | 1870 |
 
 ### Royal Navy 
-| Class | Ship  | Main Gun-lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
+| Class-lvl | Ship  | Main Gun-lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39 | 1025 |
 | BB1-56 | Revenge | 15"/42 cal Mark III D-69 | 16.32-30 | 75-35 |25.55 | 1355+246 |
@@ -49,7 +49,7 @@ BOTS
 | BB7 | King George VI | 18"/50 Mark III | 20.04-40 | 80-30 | 30.93 | 1650|
 
 ### Kriegsmarine 
-| Class | Ship  | Main Gun-lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damgage |
+| Class-lvl | Ship  | Main Gun-lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damgage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | KM_Andria Doria | 12.6"/44 Model 1936-65 | 15.04-30 | 78-40 | 27.28 | 940 |
 | BC2-69 | O Project | 11"/54.5 SK C/35L-63 | 16.10-40 | 78-40 | 28.57 | 464+219 |
@@ -71,7 +71,7 @@ BOTS
 | BB7 | Admiral Scheer | 20"/45 SK C/40b | 19.80-4 0| 80-30 | 31.52 | 1110 |
 
 ### Imperial Navy 
-| Class | Ship  | Main Gun -Lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
+| Class-lvl | Ship  | Main Gun -Lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | B65 Project | 12.2"/50 Model 1940 -63 | 15-20-45 | 75-40 | ? | 982 |
 | BB1-59 | Kongo | 12.2" Type 98L-56 | 14.76-45 | 75-40 | 25.05 | 650 |
@@ -94,7 +94,7 @@ BOTS
 | BB7 | Izmi | 20.5"/45 Type 98C | 18.00-45| 80-30 | 31.01| 1940 |
 
 ### Marine Nationale 
-| Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
+| Class-lvl | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | MN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 27.39| 1025 |
 | BB3-63 | Lyon | 13.4"/45 cal Model 1922  -71 | 15.56 -35| 80-40 | 27.38| 1154+249 |
@@ -111,13 +111,13 @@ BOTS
 | BB7 | Versailles | 18.89"/45 cal Model 1945 II | 20.44-35| 80-40 | 30.44 | 1540 |
 
 ### Soviet Navy 
-| Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
+| Class-lvl | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40 | 77-40 | 27.29 | 1120 |
 | BB3-78 | Imperatritsa | 12"/55 B-36 Pattern 1937 -78 | 17.00-40 | 77-40 | 27.64 | 1050 |
 | BB3-79 | Kronshtadt | 12"/55 B-50 Pattern 1940 -79 | 16.24-45 | 77-40 | 27.67 | 1050 |
 | EBB3-84 | Kronshtadt 1940 | 12"/55 B-50 Pattern 1940 -79 | 16.20-45| 77-40 | 28.41 | 850 |
-| PBB-85 | Project21 | ? | ?| 76 | ? | ? |
+| PBB-85 | Project21 | 16"/45 SD-1934-85 | 18.48-40 | 80-35 | ? | 947 |
 | BB4 -89| Starlingrad | 16"/45 Pattern 1914-91 | 19.00-45| 80-35 | 29.43 | 1080 |
 | EBB4-96 | Starlingrad (1953) | 16"/45 Pattern 1914-91 | 19.00-45 | 80-35 | 29.43 | 1080 |
 | BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937-100 | 19.72-40 | 80-35 | 29.76 | 1940 |
@@ -129,7 +129,7 @@ BOTS
 | BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | 20.28-45 | 80-30 |  31.32 | 1765 |
 
 ### Regia Marina 
-| Class | Ship  | Main Gun -lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
+| Class-lvl | Ship  | Main Gun -lvl | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | ?| 76 | ? | ? |
 | BC3-76 | Caio Duilio (1915) | 12"/46 Model 1909 | 16.12-30 | 76-40 | 27.58 | 1064|
@@ -147,7 +147,7 @@ BOTS
 | BB7 | Italia | 18"/50 Model 1941 | 19.68-35 | 80-30 | 30.70 | 1240 |
 
 ### China Navy 
-| Class | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
+| Class-lvl | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | BB3 | JingHaiHou | 15"/42 cal Mark III | ?| 80 | ? | ? |
 | BB4 | Yan Gong | 16"/45 cal Mark IV L | ?| 80 | ? | ? |
