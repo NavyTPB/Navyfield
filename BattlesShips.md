@@ -114,6 +114,8 @@ BOTS
 | Class-lvl | Ship  | Main Gun -lvl | Reload-Grades| FCS-RB | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | SN_Sevastopol | 12"/52 Pattern 1907-61 | 14.80-40 | 77-40 | 27.29 | 1120 |
+| BB2-65 | Cangut | 12"/52 Pattern 1906 -61 | 13.46-40 | 77-40 | 2673 | 900 |
+| BB3-78 | Imperatritsa | 12"/55 B-36 Pattern 1937 -78 | 17.00-40 | 77-40 | 27.64 | 1050 |
 | BB3-78 | Imperatritsa | 12"/55 B-36 Pattern 1937 -78 | 17.00-40 | 77-40 | 27.64 | 1050 |
 | BB3-79 | Kronshtadt | 12"/55 B-50 Pattern 1940 -79 | 16.24-45 | 77-40 | 27.67 | 1050 |
 | EBB3-84 | Kronshtadt 1940 | 12"/55 B-50 Pattern 1940 -79 | 16.20-45| 77-40 | 28.41 | 850 |
