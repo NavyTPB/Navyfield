@@ -1,7 +1,7 @@
 
 
 ### U.S. Navy 
-| AA Gun-lvl | Damage | Golden | Reload | Range |
+| AA Gun-lvl | Damage |G- Angle | Reload | Range |
 | ------ | --------- | ------ | ------- | --------- |
 | 3"/70 cal Mark 23 A-29 | 70 | 37-39 | 1.08 | 5 |
 | 3"/70 cal Mark 23 A E-120| 105 | 37-39 | 1.08 | 5 |
@@ -10,7 +10,7 @@
 | 6"/47 cal Mark 16 A-46 | 144 | 33 | 2.72 | 5 |
 
 ### Royal Navy 
-| AA Gun- lvl| Damage | Golden | Reload | Range |
+| AA Gun- lvl| Damage | G-Angle | Reload | Range |
 | ------ | --------- | ------ | ------- | --------- |
 | 4.5/45 RP 10 Mark !V A-| 80 | 38-40 | 2.60 | 5-6 |
 | 4.5/45 RP 10 Mark !V A E-120| 120 | 38-40 | 2.60 | 5-6 |
@@ -19,15 +19,15 @@
 | 2pdr 1.57"/39 Mark VIII-45 | 18 | 43-44 | 0.52 | 5 |
 
 ### Kriegsmarine 
-| AA Gun-lvl | Damage | Golden | Reload | Range |
+| AA Gun-lvl | Damage | G-Angle | Reload | Range |
 | ------ | --------- | ------ | ------- | --------- |
-| 3.46"/76 SK C/32 | 37 | (35,36] | [13,14) | 6 |
+| 3.46"/76 SK C/32 | 68 | 35-36 | 0.80 | 5 |
 | 4.1"/65 SK C/33A-55 | 84 | 32-33 | 1.2 | 6-7 |
 | 4.1"/65 SK C/33AE-120 | 126 | 32-33 | 1.2 | 6 -7|
 | 5"/61 KM 40 -42| 99 | 31-32 | 1.2 | 7-9 |
 | 5"/61 KM 40 E-120| 149 | 31-32 | 1.2 | 7-9 |
 ### Imperial Navy 
-| AA Gun-lvl | Damage | Golden | Reload | Range |
+| AA Gun-lvl | Damage | G-Angle | Reload | Range |
 | ------ | --------- | ------ | ------- | --------- |
 | 3.9"/65 Type 98A-34 | 83 | 37 | 1.20 | 6 |
 | 4.7"/45 Type 10A-36 | 60 | 26-27 | 1.52 | 10 |
@@ -35,14 +35,14 @@
 | 6.1"/60 Type 3A-58 | 120 | 27 | 3.00 | 10 |
 | 6.1"/60 Type 3AE-120 | 180 | 27 | 3.00 | 10 |
 ### Marine Nationale 
-| AA Gun-lvl | Damge | Golden | Reload| Range |
+| AA Gun-lvl | Damge | G-Angle | Reload| Range |
 | ------ | --------- | ------ | ------- | --------- |
 | 3.5“/50 cal Model 1929A-25 | 42 | 24-25 | 2.2 | 12 |
 | 3.5“/50 cal Model 1926A E-120 | 63 | 24-25 | 2.2 | 12 |
 | 5.1"/45 cal Model 1932A-33 | 111 | 34-35 | 3.32 | 8-9 |
 | 5.1"/45 Model 1932AE-120 | 167 | 34-35 |3.32 | 8-9 |
 ### Soviet Navy 
-| AA Gun-lvl | Damage | Golden | Reload | Range |
+| AA Gun-lvl | Damage | G-Angle | Reload | Range |
 | ------ | --------- | ------ | ------- | --------- |
 | 3.9"/50 "Minizini"-30 | 60 | 35-36 | 1.56 | 7-8 |
 | 3.9"/50 "Minizini"E-120 | 90 | 35-36 | 1.56 | 7-8 |
