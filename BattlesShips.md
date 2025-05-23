@@ -1,4 +1,4 @@
-BOTS
+Battleships
 
 - New ships and guidelines
 
