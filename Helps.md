@@ -1,6 +1,6 @@
 It's just information
 
-- calc crew
-https://drive.google.com/file/d/1XjAJesGCI5IIif2zaRMpdNEBJ0TL4O3R/view
+- calc crew  ( txs pr_ingress )
+https://dododo-n.net/nf_calculator_en/     
 - Servers lag Test
 https://forum.navyfield.com/forum.php?mod=viewthread&tid=51
