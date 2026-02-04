@@ -5,4 +5,4 @@ https://dododo-n.net/nf_calculator_en/
 - Servers lag Test
 https://forum.navyfield.com/forum.php?mod=viewthread&tid=51
 - Tips
---- Escort
+- -- Escort
