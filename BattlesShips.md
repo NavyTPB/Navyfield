@@ -21,7 +21,7 @@ Battleships
 | EBB5-113 | California | 18"/48 cal BH-427   -115 |19.68 -40 | 80-30 | 29.77 | 2000 |
 | BB6 | Nebraska | 18"/48 cal Mark 2  | 20.20 -40 | 80-30 | 30.88 | 1767 |
 | EBB6 | New Jersey | 18"/48 cal BD-119  | 20.44 -40 | 80-30 | 30.88 | 1767 |
-| BB6.5 | Oklahoma | 18"/48 cal Mark 3 | 19.92 -40 | 80-30 | 30.88 | 1870 |
+| BB6.5 | Oklahoma | 18"/48 cal Mark 3 | 19.92 -40 | 80-30 | 31.00 | 1870 |
 | BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | 19.92 -40 | 80-30 | 31.22 | 1870 |
 
 ### Royal Navy 
