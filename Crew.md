@@ -4,7 +4,7 @@ Sailors.
 - Some sailors have a skill cap.
 - Gunners:Acc 2,000,000 
 - Gunners:Rld 2,100,000 
-- Torpedo Boats: 800,000 (reload doesn't affect skill).
+- Torpedo: 800,000 (reload doesn't affect skill).
 - Anti-aircraft: acc and Rld; AAW doesn't affect skill, but it's not completely disabled on ships.
 - Engineers: no limit, but ships do have a maximum speed, very important for the OH .
 - Repairers: no limit, but the ship has a maximum repair capacity of 280.
