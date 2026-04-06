@@ -14,7 +14,7 @@ Sailors.
 - Bomber: IDK
 
 
-- Formula: Add or subtract the percentages of the sailors, divide the total by 100, and multiply the result and multiply the result by the total number of sailors. Then multiply that result by the ablility.
+- Formula: Add or subtract the percentages of the sailors, divide the total by 100, and multiply the result by the total number of sailors. Then multiply that result by the ablility.
 - For example:
 - 50% Vet                         /
 - 30% Expert                      / 50+30-3=77% 77/100=0.77
