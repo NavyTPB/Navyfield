@@ -14,4 +14,4 @@ Sailors.
 - Bomber: IDK
 
 
-- Formula: Add or subtract the percentages of the sailors, divide the total by 100, and multiply the result by the sailor's ability.
+- Formula: Add or subtract the percentages of the sailors, divide the total by 100, and multiply the result and multiply the result by the total number of sailors. Then multiply that result by the ablility.
