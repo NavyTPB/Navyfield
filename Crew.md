@@ -9,7 +9,7 @@ Sailors.
 - Engineers: no limit, but ships do have a maximum speed, very important for the OH .
 - Repairers: no limit, but the ship has a maximum repair capacity of 280.
 - Restorer: currently unused.
-- Aircraft: 2,800,000 - 3,100,000 to avoid being killed by AAW; the observer comes with the aircraft and the altitude
+- Aircraft: 2,800,000 - 3,100,000 to avoid being killed by AAW; the observer comes with the aircraft.
 - Fighter: no specific or noticeable limit.
 - Bomber: IDK
 
