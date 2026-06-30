@@ -163,7 +163,7 @@ Battleships
 
 ### Notas
 
-- RB= round bind
+-  The level 101–115 cannons are interchangeable.
 -  Update idea-based by Tskspree.
 
 
